@@ -13,4 +13,7 @@ git lab
 
 sc.exe create gitea start= auto binPath= "\"D:\gitea\gitea.exe\" web --config \"D:\gitea\conf\app.ini\""
 
-천지영 <jycheon@broadcns.com>
+천지영 <jycheon@broadcns.com>\
+
+
+setwet
